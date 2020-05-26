@@ -1,0 +1,14 @@
+{
+    "name": "samurais/phpslimstart",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hai Liang Wang",
+            "email": "hain@chatopera.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "3.8"
+    }
+}
